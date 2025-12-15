@@ -36,6 +36,7 @@ class Program
             {
                 Console.WriteLine("❌ Erreur : division par zéro !\n");
             }
+            
             catch
             {
                 Console.WriteLine("❌ Erreur : entrée invalide ou opérateur inconnu.\n");
