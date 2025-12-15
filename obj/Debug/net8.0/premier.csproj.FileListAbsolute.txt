@@ -1,0 +1,14 @@
+/home/frankamdev/premier/bin/Debug/net8.0/premier
+/home/frankamdev/premier/bin/Debug/net8.0/premier.deps.json
+/home/frankamdev/premier/bin/Debug/net8.0/premier.runtimeconfig.json
+/home/frankamdev/premier/bin/Debug/net8.0/premier.dll
+/home/frankamdev/premier/bin/Debug/net8.0/premier.pdb
+/home/frankamdev/premier/obj/Debug/net8.0/premier.GeneratedMSBuildEditorConfig.editorconfig
+/home/frankamdev/premier/obj/Debug/net8.0/premier.AssemblyInfoInputs.cache
+/home/frankamdev/premier/obj/Debug/net8.0/premier.AssemblyInfo.cs
+/home/frankamdev/premier/obj/Debug/net8.0/premier.csproj.CoreCompileInputs.cache
+/home/frankamdev/premier/obj/Debug/net8.0/premier.dll
+/home/frankamdev/premier/obj/Debug/net8.0/refint/premier.dll
+/home/frankamdev/premier/obj/Debug/net8.0/premier.pdb
+/home/frankamdev/premier/obj/Debug/net8.0/premier.genruntimeconfig.cache
+/home/frankamdev/premier/obj/Debug/net8.0/ref/premier.dll
